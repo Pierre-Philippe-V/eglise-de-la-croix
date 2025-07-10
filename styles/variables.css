@@ -1,0 +1,20 @@
+:root{
+    --principal: #ffffff;
+    --p1: #ededed;
+    --p2: #c4c4c4;
+    --psombre: #2c2c2c;
+    --acc1: #ffef93;
+    --acc2: #93d6ff;
+    --acc3: #ff9393;
+    --acc4: #d9ff93;
+    --de4: linear-gradient(
+    179.56deg,
+    rgba(217, 217, 217, 1) 0%,
+    rgba(195, 195, 195, 1) 100%
+  );
+    
+    --largeur-site:1600px;
+}
+
+
+
